@@ -44,7 +44,7 @@ export enum DeviceType {
     LOCK_BLE_NO_FINGER = 52,
     LOCK_WIFI_NO_FINGER = 53,
     LOCK_8503 = 54, //Smart Lock R10
-    LOCK_8530 = 55,
+    LOCK_8530 = 189,
     LOCK_85A3 = 56,
     LOCK_8592 = 57,
     LOCK_8504 = 58, //Smart Lock R20
